@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<p><h1>Welcome to P1</h1></p>
+<h1><p>Welcome to P1</p></h1>
 
 
 <!-- php script starts here -->
